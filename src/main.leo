@@ -9,6 +9,7 @@ program token.aleo {
         // The token amount.
         amount: u64,
     }
+    
 
     /* Mint */
 
